@@ -7,6 +7,5 @@ requests==2.32.3
 yt-dlp==2024.12.23
 gunicorn==23.0.0
 pymongo==4.10.1
-numpy==1.26.4
-torch==2.5.1
-torchvision==0.20.1
+numpy==2.1.3
+
